@@ -1,0 +1,17 @@
+*.o
+*.dep
+*.bin
+*.hex
+*.obj
+.DS_Store
+*.swp
+a.out
+*.swo
+*.gch
+tags
+*.s
+*.d
+JLink.log
+flash.jlink
+*.s#*
+*.b#*
